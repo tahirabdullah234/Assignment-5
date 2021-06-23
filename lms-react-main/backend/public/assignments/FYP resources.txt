@@ -1,0 +1,12 @@
+https://github.com/nicolaspanel/numjs - numpy in javascript
+https://www.tensorflow.org/js/tutorials/conversion/import_keras - import keras model to js
+https://www.kaggle.com/siddheshshelke/drd-nn-densenet169?select=1000_Binary_images_data_264.npz - densenet cnn architecture
+https://keras.io/api/optimizers/ - keras docs
+
+
+https://reactrouter.com/web/guides/quick-start - react router
+https://blog.logrocket.com/how-to-use-bootstrap-with-react-a354715d1121/ - bootstrap with react
+https://reactstrap.github.io/components/pagination/ - reactstrap
+
+___________________________________________________________________________________________________________________________
+https://www.google.com/search?q=which+optimizer+to+use+for+binary+classification&oq=optimizer+to+use+for+&aqs=chrome.2.69i57j0i22i30l6j0i390l3.12149j1j7&sourceid=chrome&ie=UTF-8

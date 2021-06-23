@@ -1,0 +1,30 @@
+table {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+    width: max-content;
+}
+
+tr {
+    border-bottom: 1px solid black;
+}
+
+ul {
+    display: inline-flex;
+    width: 80%;
+    justify-content: space-around;
+}
+
+li {
+    display: flex;
+    color: black;
+    font-size: 16px;
+    
+}
